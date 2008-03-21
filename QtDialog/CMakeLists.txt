@@ -13,7 +13,7 @@ SET(CMAKE_COLOR_MAKEFILE ON)
 # these directories to the list of include paths to index. In order for this
 # discovery process to work you need to build your project at least once with
 # the CMAKE_VERBOSE_MAKEFILE to true (ON)
-SET(CMAKE_VERBOSE_MAKEFILE ON)
+SET(CMAKE_VERBOSE_MAKEFILE OFF)
 
 # The CDT Error Parser cannot handle error messages that span more than one line,
 # which is the default gcc behavior. In order to force gcc to generate single
