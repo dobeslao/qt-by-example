@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/toolbar/edit" >
+        <file>icons/edit-copy.png</file>
+        <file>icons/edit-cut.png</file>
+        <file>icons/edit-paste.png</file>
+        <file>icons/edit-redo.png</file>
+        <file>icons/edit-undo.png</file>
+    </qresource>
+    <qresource prefix="/toolbar/file" >
+        <file>icons/battery.png</file>
+        <file>icons/contact-new.png</file>
+        <file>icons/document-new.png</file>
+        <file>icons/document-open.png</file>
+        <file>icons/emblem-system.png</file>
+        <file>icons/emblem-unreadable.png</file>
+        <file>icons/media-floppy.png</file>
+        <file>icons/view-refresh.png</file>
+    </qresource>
+</RCC>
